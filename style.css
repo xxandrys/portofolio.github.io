@@ -102,6 +102,19 @@ a.social {
   transition: ease 0.8s;
 }
 
+.tools .js:hover {
+  background-color: #fff6bd;
+  border: none;
+  transition: ease 0.8s;
+}
+
+.tools .react:hover {
+  background-color: #82aae3;
+  border: none;
+  color: white;
+  transition: ease 0.8s;
+}
+
 body {
   padding-top: 3.5rem;
 }
